@@ -15,3 +15,21 @@ Double-click `index.html`; it opens in your browser. Nothing is saved: this is a
 
 ## Data
 All data in this project is fictional. Never add real patient data, passwords or keys.
+
+## Team Members
+
+| Name | Role |
+|---|---|
+| Dwina | Repository Owner |
+| Isya | Collaborator |
+
+## How to Open the Form
+
+1. Open the repository on GitHub.
+2. Find the `index.html` file.
+3. Download the file to your computer.
+4. Open `index.html` in a web browser to view the form.
+
+## Security Note
+
+Fictional data only. No patient data, passwords or keys, ever.
